@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+asyncpg
+sqlalchemy[asyncio]
+psycopg2-binary
+motor
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
+python-dotenv
